@@ -4,5 +4,5 @@ import com.atguigu.springcloud.entities.Payment;
 
 public interface PaymentService {
     Payment getPaymentById(Long id);
-    void creatPayment(Payment payment);
+    int creatPayment(Payment payment);
 }
