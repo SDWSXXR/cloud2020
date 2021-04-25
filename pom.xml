@@ -20,6 +20,7 @@
       <module>cloud-consumerconsul-order80</module>
       <module>cloud-grpc</module>
     <module>cloud-aop-login</module>
+      <module>cloud-api-file</module>
   </modules>
 
 
